@@ -1,5 +1,5 @@
 ---
-name: capstone-project_template
+name: capstone-project_tmp
 about: devops-capstone-project
 title: ''
 labels: ''
